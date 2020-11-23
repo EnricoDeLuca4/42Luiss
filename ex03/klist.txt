@@ -1,0 +1,5 @@
+Credentials cache: API:29FAA68F-A659-42A4-8010-735113FB9AB2
+        Principal: ede-luca@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 23 17:32:20 2020  Nov 24 03:32:20 2020  krbtgt/42ROMA.IT@42ROMA.IT
